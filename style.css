@@ -123,8 +123,7 @@
     }
 }
 
-@media screen and (max-width: 480px) {
-
+/* @media screen and (max-width: 480px) {
     header {
         text-align: center;
     }
@@ -135,21 +134,18 @@
         background-size: contain;
         text-align: center;
         width: 100%;
-        /* 幅を100%に変更 */
+        /* 幅を100%に変更
         height: 15rem;
-        /* 高さを変更 */
+
         display: inline-block;
     }
 
     .color {
         background: rgba(255, 255, 255, 0.918);
         margin-top: 2rem;
-        /* 上部マージンを変更 */
         height: 3rem;
-        /* 高さを変更 */
         text-align: center;
         width: 100%;
-        /* 幅を100%に変更 */
         display: inline-block;
     }
 
@@ -161,7 +157,6 @@
 
     .area {
         width: 100%;
-        /* 幅を100%に変更 */
         margin: auto;
         flex-wrap: wrap;
         display: flex;
@@ -170,10 +165,8 @@
     .tab_class {
         width: calc(100%/2);
         height: 40px;
-        /* 高さを変更 */
         background-color: rgb(220, 220, 220);
         line-height: 40px;
-        /* 行の高さを変更 */
         font-size: 15px;
         text-align: center;
         display: block;
@@ -201,7 +194,6 @@
 
     .area2 {
         width: 100%;
-        /* 幅を100%に変更 */
         margin: auto;
         flex-wrap: wrap;
         display: flex;
@@ -210,10 +202,8 @@
     .tab_class2 {
         width: calc(100%/2);
         height: 40px;
-        /* 高さを変更 */
         background-color: rgb(220, 220, 220);
         line-height: 40px;
-        /* 行の高さを変更 */
         font-size: 15px;
         text-align: center;
         display: block;
@@ -246,7 +236,6 @@
     .見出し {
         margin: 0 auto;
         width: 90%;
-        /* 幅を変更 */
         padding: 1rem 2rem;
         border-left: 5px solid #000;
         background: #6ac9fc;
@@ -256,4 +245,4 @@
     .white {
         color: aliceblue;
     }
-}
+}   */
