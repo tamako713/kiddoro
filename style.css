@@ -1,7 +1,6 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');
 
-@media screen and (max-width: 768px) {
     header {
         text-align: center;
     }
@@ -121,7 +120,6 @@
     .white {
         color: aliceblue;
     }
-}
 
 /* @media screen and (max-width: 480px) {
     header {
